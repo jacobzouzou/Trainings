@@ -1,1 +1,1 @@
-My training repositories
+My trainings repository
